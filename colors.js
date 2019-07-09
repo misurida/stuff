@@ -1,4 +1,61 @@
 const colors = [{
+    name: 'Colorful and Balanced',
+    source: 'Active Theory',
+    colors: [{
+        name: 'Orange foncé',
+        code: '#E27D60'
+    },{
+        name: 'Bleu clair',
+        code: '#85CDCA'
+    },{
+        name: 'Orange',
+        code: '#E8A87C'
+    },{
+        name: 'Violet',
+        code: '#C38D9E'
+    },{
+        name: 'Vert',
+        code: '#41B3A3'
+    }]
+},{
+    name: 'Bright Accent Colors',
+    source: 'Paypr',
+    colors: [{
+        name: 'Bleu foncé',
+        code: '#242582'
+    },{
+        name: 'Violet foncé',
+        code: '#553D67'
+    },{
+        name: 'Rose',
+        code: '#F64C72'
+    },{
+        name: 'Violet clair',
+        code: '#99738E'
+    },{
+        name: 'Bleu foncé',
+        code: '#2F2FA2'
+    }]
+},{
+    name: 'Natural and Earthy',
+    source: 'Paypr',
+    colors: [{
+        name: 'Vert',
+        code: '#8D8741'
+    },{
+        name: 'Bleu clair',
+        code: '#659DBD'
+    },{
+        name: 'Beige',
+        code: '#DAAD86'
+    },{
+        name: 'Brun clair',
+        code: '#BC986A'
+    },{
+        name: 'Jaune clair',
+        code: '#FBEEC1'
+    }]
+},{
     name: "Cool and Fresh",
     source: "Grosse Lanterne",
     colors: [{
