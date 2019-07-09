@@ -1,4 +1,4 @@
-return [{
+const colors = [{
     name: "Cool and Fresh",
     source: "Grosse Lanterne",
     colors: [{
@@ -1827,7 +1827,7 @@ return [{
     source: "https://visme.co/blog/color-combinations/",
     colors: [{
         name: "Gris clair",
-        code: "#D3D0DA";
+        code: "#D3D0DA"
     },{
         name: "Gris",
         code: "#B5B3BE"
@@ -1842,3 +1842,5 @@ return [{
         code: "#A7907F"
     }]
 }];
+
+export default colors;
